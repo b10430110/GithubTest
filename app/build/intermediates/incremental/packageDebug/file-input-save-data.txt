@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Mar 27 21:18:57 CST 2017
+2.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_a.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1e941f765aec7cdc03e6f4b2afe24d14afecba42\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_c.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a2478faa8853326ca3d169f7ca25f5020d7ddfd8\\classes.dex
+5.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1e941f765aec7cdc03e6f4b2afe24d14afecba42
+1.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_b.xml
+6.set=DEX
+0.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a2478faa8853326ca3d169f7ca25f5020d7ddfd8
+8.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_dialog.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

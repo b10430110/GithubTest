@@ -1,0 +1,4 @@
+#Mon Mar 27 21:18:56 CST 2017
+base.0=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v13_aa17978ab5b66e8523fdcee6a86dfe667987e4d5
+renamed.0=classes.dex
+file.0=C\:\\Users\\user\\Documents\\GitHub\\GithubTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v13_aa17978ab5b66e8523fdcee6a86dfe667987e4d5\\classes.dex

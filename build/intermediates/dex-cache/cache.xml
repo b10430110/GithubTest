@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\GitHub\GithubTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\user\Documents\GitHub\GithubTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a2478faa8853326ca3d169f7ca25f5020d7ddfd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88c4aff1f1a19d56462cc2afade6d229a88c166e">
+        <dex dex="C:\Users\user\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_40e88b5c017d3512d41f1931f173fb3c761439b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\GitHub\GithubTest\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="C:\Users\user\Documents\GitHub\GithubTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v13_aa17978ab5b66e8523fdcee6a86dfe667987e4d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\activity-lifecycle\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="C:\Users\user\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v13_0178989df14d5018d53bacd920ee1fb377a6ad3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\GitHub\GithubTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a7f7b37ba3417b0ed1ec9f9420c832f35ff7cfa">
+        <dex dex="C:\Users\user\Documents\GitHub\GithubTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e941f765aec7cdc03e6f4b2afe24d14afecba42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\user\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_763295aeb0830087298bac8d029e7f9ea77ca656\classes.dex" />
+    </item>
+
+</items>
